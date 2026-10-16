@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**fsrvr/fsrvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **Python** and **cybersecurity**.
 
-Here are some ideas to get you started:
+- Love making projects
+- Studying cybersecurity fundamentals
+- My goal is to build small cool apps and learn ethical hacking
+- I also love soldering and computer engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Tech
+
+- **OS:** Arch Linux
+- **Window Manager:** Hyprland (Wayland)
+- **Editor:** Vim
+- **Shell:** bash
+
+### Connect with me
+
+[![TikTok](https://img.shields.io/badge/TikTok-%40fxnvvv-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fxnvvv)
