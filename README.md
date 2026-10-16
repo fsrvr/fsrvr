@@ -1,16 +1,19 @@
 ## Hi 👋
 
-I'm learning **Python** and **cybersecurity**.
+- studying **cybersecurity**
+- python developer
 
-- Learning cybersecurity fundamentals
-- Learning programming 
-
-### Tools and Tech
+### more info
 
 - **OS:** Arch Linux
 - **Window Manager:** Hyprland (Wayland)
 - **Editor:** Vim
-- **Shell:** bash
+- **shell:** bash
+
+### Hobbies
+
+- **Software:** python apps, ricing arch
+- **Hardware:** blue jammers, microcontrollers, opening hardware
 
 ### Connect with me
 
