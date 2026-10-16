@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi 👋
 
 I'm learning **Python** and **cybersecurity**.
 
-- Love making projects
-- Studying cybersecurity fundamentals
-- My goal is to build small cool apps and learn ethical hacking
-- I also love soldering and computer engineering 
+- Learning cybersecurity fundamentals
+- Learning programming 
 
 ### Tools and Tech
 
