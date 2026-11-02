@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 ### About
-14-year old software engineer building cool apps for fun
+14 - year old software engineer building cool apps for fun
 
 #### Other info
 - bored professional hacker (cybersecurity expert)
 - studying cybersecurity
 - mainly python developer
+- learning electrical engineering
 
 #### Core skils:
 **Languages**: Python, Go, C++
